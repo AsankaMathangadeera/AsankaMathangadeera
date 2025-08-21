@@ -26,5 +26,6 @@ I bring over experience in Banking and Treasury Back Office operations combined 
     🔹 Java Data Structures & Algorithms Practice
 
 📫 Connect with Me
+
     🌐 [LinkedIn](https://www.linkedin.com/in/asanka-mathangadeera)
     ✉️ [Email](mailto:asankagayanm@gmail.com)
