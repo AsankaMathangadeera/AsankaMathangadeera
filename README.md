@@ -14,6 +14,7 @@ I bring over experience in Banking and Treasury Back Office operations combined 
     📷 Creative side: Passion for photography, design, and digital applications
 
 🛠️ Skills & Tools
+
     Programming: Java, Python, VBA, SQL
     Data Tools: Excel, Tableau 
     Reporting & Automation: Crystal Reports, VBA, Office Automation
