@@ -10,7 +10,7 @@ I bring over experience in Banking and Treasury Back Office operations combined 
     📚 Presently following the Google Data Analytics Certificate on Coursera    
     💼 Background in Banking & Treasury Operations     
     💻 Learning and working with Java, Python, SQL, VBA, Excel, Crystal Reports, and Tableau    
-    📊 Interested in Data Science, Machine Learning, and Automation with a focus on applying these skills to solve real-world problems    
+    📊 Interested in Data Science, Machine Learning, and Automation    
     📷 Creative side: Passion for photography, design, and digital applications
 
 🛠️ Skills & Tools
@@ -21,6 +21,7 @@ I bring over experience in Banking and Treasury Back Office operations combined 
     Other: Git/GitHub, Data Science fundamentals, Treasury operations knowledge
 
 📂 Featured Projects
+
     🔹 Customer Balance Confirmation Tool (VBA + Word Automation)
     🔹 Java Data Structures & Algorithms Practice
 
