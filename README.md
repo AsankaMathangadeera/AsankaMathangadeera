@@ -5,7 +5,6 @@
 I bring over experience in Banking and Treasury Back Office operations combined with a growing expertise in software development, automation, and data science. My passion lies in building solutions that bridge finance and technology—whether that’s automating repetitive banking tasks, analyzing financial data, or developing applications.
 
 🚀 About Me
-    
     🎓 Pursuing Bachelor of Information Technology at UCSC, Sri Lanka (completed up to Diploma level)
     📚 Presently following the Google Data Analytics Certificate on Coursera    
     💼 Background in Banking & Treasury Operations     
